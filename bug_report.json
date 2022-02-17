@@ -1,0 +1,10 @@
+{
+"Defect ID" : "B067",
+"Reporter name" : "Alina",
+  "Defect reporter date" : "February 17, 2022",
+  "Who detected" : "Alina",
+  "Project name" : "Project X",
+  "Version release" : 24,
+  "Defect" : "The creator of a group conversation cannot rename it",
+  "Priority" : "Medium"
+}
